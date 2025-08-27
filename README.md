@@ -74,6 +74,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 ## Made By
 
-- [@Vishwas](https://github.com/vishwasjain321)
+- [@Vishwas](https://github.com/dhruvThakur203)
 
   
